@@ -1,1 +1,2 @@
-output_rinex.txt
+*.txt
+*.class
